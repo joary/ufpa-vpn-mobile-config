@@ -22,6 +22,7 @@ echo '<ca>' >> ufpa.ovpn
 cat ca.crt >> ufpa.ovpn
 echo -e '\n<\\ca>' >> ufpa.ovpn
 
-
+cd ..
+mv UFPAvpn-config-Fedora UFPAvpn-config-Mobile
 
 
