@@ -1,3 +1,6 @@
+**Attention:** UFPA now offers a new VPN service, check out the android configuration here: https://wiki.ctic.ufpa.br/index.php/VPN_no_Android
+
+
 How to configure UFPA vpn on Mobile Device
 ===================================
 
